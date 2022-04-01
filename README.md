@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bruno Alexandre Duarte
 - 👀 I’m interested in anime, manga, games and computers
 - 🌱 I’m currently learning how to get a girlfriend
-- 💞️ I’m looking to collaborate on coitus
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me say HI!!!
 
 <!---
