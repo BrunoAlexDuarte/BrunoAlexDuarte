@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bruno Alexandre Duarte
-- 👀 I’m interested in anime, manga, games and computers
-- 🌱 I’m currently learning how to get a girlfriend
+- 👀 I’m interested in anime, manga, games, robotics and algorithms
+- 🌱 I’m currently learning how to get a girlfriend and rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me say HI!!!
 
