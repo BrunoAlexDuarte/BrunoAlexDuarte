@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bruno Alexandre Duarte
-- 👀 I’m interested in anime, manga, games, robotics and algorithms
+- 👀 I’m interested in robotics, embeded systems and algorithms
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me say HI!!!
